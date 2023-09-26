@@ -1,0 +1,143 @@
+h1 {
+    font-size: 3rem;
+    margin: 1.5rem 0;
+    color: #ffffff;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2.3rem;
+    color: #333333;
+}
+
+body {
+    background-color: #0cffeb;
+    font-family: 'Markazi Text', serif;
+    margin: 3rem 5%;
+}
+
+
+#underheading {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+
+header img {
+    display: block;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: #333333;
+    border-radius: 1rem;
+    margin: 1rem 0;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style: none;
+    font-size: 2rem;
+    text-align: center;
+    padding-inline-start: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0.25rem;
+}
+
+nav ul a {
+    color: #EDEFEE;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+nav ul a:hover {
+    text-decoration: none;
+    border-bottom: 0.1rem solid #fbdabb;
+    padding-bottom: 0.1rem;
+    color: #fbdabb;
+}
+
+
+section {
+    display: flex;
+    gap: 2rem 1rem;
+    margin: 1rem 0;
+}
+
+article {
+    flex: 1;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    background-color: #e6fd63bb;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+article img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+article ul {
+    list-style: none;
+    font-size: 1.3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+article a {
+    font-size: 1.3rem;
+    text-decoration: none;
+    color: #495E57;
+    transition: color 0.3s;
+}
+
+article a:hover {
+    color: #333333;
+}
+
+article a:active {
+    color: #EDEFEE;
+    background-color: #495E57;
+}
+
+#picture {
+    background-image: url("Food Banner Background.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #020202;
+    text-shadow: 2px 2px 8px #FFF9B0;
+    text-align: center;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+footer {
+    margin: 1rem;
+    display: flex;
+    gap: 2rem 1rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer img {
+    max-width: 50%;
+}
+
+footer p {
+    border-top: 0.1rem solid #333333;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    text-align: right;
+    font-size: 1.3rem;
+    padding: 0.5rem;
+    margin: 0;
+}
+
+footer div {
+    flex: 1;
+}
