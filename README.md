@@ -7,7 +7,7 @@ This Is A Project Portfolio Provided By The Course Meta-Front-End Developer, Cou
 
 
 
-![Little Lemmon Heading](https://github.com/JosiasIsZero/Little-Lemon/assets/105129441/33b1dadf-ca54-4928-b098-2bc51ec4d6b0)
+![Little Lemmon Heading](https://github.com/JosiasIsZero/Little-Lemon-Project/assets/105129441/65bdad86-1e39-4af0-85ca-449253467ecd)
 
 
 
@@ -16,4 +16,5 @@ This Is A Project Portfolio Provided By The Course Meta-Front-End Developer, Cou
 
 
 
-![Little Lemon Menu](https://github.com/JosiasIsZero/Little-Lemon/assets/105129441/537e2297-1188-4ef5-9827-97fd6cb2d3aa)
+![Little Lemon Menu](https://github.com/JosiasIsZero/Little-Lemon-Project/assets/105129441/6624e5ea-85c9-4884-a586-b38149c48e0e)
+
